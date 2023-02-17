@@ -25,18 +25,19 @@ Usage of any DSV art assets, including partial or full portrait art, sprite art,
 character designs, and outfit designs, is **strictly forbidden without
 permission from the original artist**. DSV assets are **not** allowed to be used
 in NSFW or 18+ projects. If you cannot contact an artist, that artist's work
-**cannot** be used.
-
-If you are interested in adapting DSV's seasonal and/or festival outfits to
-another portrait or sprite mod, please **contact each artist whose work you
-would like to use** and obtain their permission, including the other portrait
-artist if adapting an existing portrait mod not made by yourself. Refer to the
+**cannot** be used. Refer to the
 [DSV Credits](https://docs.google.com/spreadsheets/d/10e0GPMcKTrzAm93Uhn17ElejMpiuwxh2t-utQvrR66M/)
 spreadsheet for credit and contact details.
 
+If you are interested in creating a [DSV additional character pack](https://diversestardewvalley.weebly.com/additional-packs.html)
+by adapting DSV's seasonal and/or festival outfits by adapting DSV's seasonal
+& festival outfits either to another portrait or sprite mod or to your own
+portrait or sprite edits, you do not need to ask permission from the individual
+DSV asset artists. You do however need to ask permission from the other portrait
+artist(s) if adapting an existing portrait mod not made by yourself.
+
 Adapted portrait and sprite mods using DSV assets **cannot be uploaded
 separately**. Once you have received permission, please contact Airyn on Discord
-and send the assets to be uploaded as a
-[DSV additional character pack](https://diversestardewvalley.weebly.com/additional-packs.html).
-Add-on packs will be maintained by the DSV team and updated to match new
-features from the main DSV mod at the team's discretion.
+and send the assets to be uploaded. Add-on packs will be maintained by the
+DSV team and updated to match new features from the main DSV mod at the team's
+discretion. We also welcome any users who would like to update additional packs themselves.
